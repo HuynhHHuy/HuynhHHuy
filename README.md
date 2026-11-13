@@ -34,12 +34,11 @@
 ### GitHub Stats
 
 <p align="center">
-  <img width="37%" src="https://github-readme-stats-fast.vercel.app/api?username=HuynhHHuy&amp;show_icons=true&amp;hide=commits&amp;hide_rank=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub overview: stars, pull requests and issues" />
+  <img width="39%" src="stats-overview.svg" alt="Illustrative GitHub Stats: 348 commits in 2026 and 74 pull requests" />
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=HuynhHHuy&amp;theme=github_dark&amp;hide_border=true" alt="Contribution streak" />
 </p>
 <p align="center">
-  <img width="39%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=HuynhHHuy&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;hide=html&amp;langs_count=4&amp;custom_title=Public%20Repo%20Languages" alt="Public repository languages with HTML filtered out" />
+  <img width="39%" src="most-used-languages.svg" alt="Illustrative language mix: TypeScript 52%, JavaScript 34%, CSS 9%, HTML 5%" />
 </p>
 
-<p align="center"><sub>Language card excludes HTML · <a href="https://github.com/HuynhHHuy#js-contribution-activity">Commit activity on GitHub</a></sub></p>
-
+<p align="center"><sub>Overview and language mix are illustrative · <a href="https://github.com/HuynhHHuy#js-contribution-activity">Live activity on GitHub</a></sub></p>
