@@ -16,7 +16,7 @@
 **Name** · Huỳnh Hoàng Huy  
 **GitHub** · [@HuynhHHuy](https://github.com/HuynhHHuy)  
 
-[Public repositories](https://github.com/HuynhHHuy?tab=repositories) · [Contribution graph](https://github.com/HuynhHHuy#contribution-graph)
+[Public repositories](https://github.com/HuynhHHuy?tab=repositories)
 
 <br clear="both" />
 
@@ -24,10 +24,9 @@
 
 ### GitHub Stats
 
+[View commit and pull request activity on GitHub](https://github.com/HuynhHHuy#js-contribution-activity)
+
 <p align="center">
-  <img width="47%" src="https://github-readme-stats-fast.vercel.app/api?username=HuynhHHuy&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub overview" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=HuynhHHuy&amp;theme=github_dark&amp;hide_border=true" alt="Contribution streak" />
-</p>
-<p align="center">
   <img width="46%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=HuynhHHuy&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Top languages in public repositories" />
 </p>
