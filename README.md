@@ -13,13 +13,11 @@
 
 <img align="right" width="40%" src="night-coding.gif" alt="Animated coding desk at night" />
 
-**Name** · Huỳnh Hoàng Huy  
-**GitHub** · [@HuynhHHuy](https://github.com/HuynhHHuy)  
-**Languages** · TypeScript, JavaScript  
-**Web stack** · Next.js, React, Node.js  
-**Tools** · Git, GitHub, Docker, Postman, npm  
+Hi, I’m **Huỳnh Hoàng Huy**. I build web applications and enjoy figuring out how to make them easier to use and maintain.
 
-[Public repositories](https://github.com/HuynhHHuy?tab=repositories)
+**What I care about** · Clear interfaces, readable code, and tests that cover how people actually use the app.  
+**Birth year** · 2005  
+**Contact** · [huyhuynh0435@gmail.com](mailto:huyhuynh0435@gmail.com)
 
 <br clear="both" />
 
