@@ -34,7 +34,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img width="39%" src="stats-overview.svg" alt="Illustrative GitHub Stats: 348 commits in 2026, 74 pull requests, 0 issues, and 2 repositories contributed to in the last year" />
+  <img width="39%" src="stats-overview.svg?v=2" alt="Illustrative GitHub Stats: 348 commits in 2026, 74 pull requests, 8 issues, and 6 repositories contributed to in the last year" />
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=HuynhHHuy&amp;theme=github_dark&amp;hide_border=true" alt="Contribution streak" />
 </p>
 <p align="center">
