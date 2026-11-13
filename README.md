@@ -34,11 +34,11 @@
 ### GitHub Stats
 
 <p align="center">
-  <img width="39%" src="stats-overview.svg" alt="Illustrative GitHub Stats: 348 commits in 2026 and 74 pull requests" />
+  <img width="39%" src="stats-overview.svg" alt="Illustrative GitHub Stats: 348 commits in 2026, 74 pull requests, 0 issues, and 2 repositories contributed to in the last year" />
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=HuynhHHuy&amp;theme=github_dark&amp;hide_border=true" alt="Contribution streak" />
 </p>
 <p align="center">
-  <img width="39%" src="most-used-languages.svg" alt="Illustrative language mix: TypeScript 52%, JavaScript 34%, CSS 9%, HTML 5%" />
+  <img width="39%" src="most-used-languages.svg" alt="Illustrative language mix: TypeScript 46%, JavaScript 32%, HTML 5%, CSS 4%, C++ 3%, Python 3%, C 2%, C# 2%, Batchfile 1%, PowerShell 1%, Shell 1%" />
 </p>
 
 <p align="center"><sub>Overview and language mix are illustrative · <a href="https://github.com/HuynhHHuy#js-contribution-activity">Live activity on GitHub</a></sub></p>
